@@ -1,2 +1,2 @@
-Hello: main.c
-	gcc -o Hello Hello.c -I.
+main: main.c
+	gcc -o main main.c -I.
